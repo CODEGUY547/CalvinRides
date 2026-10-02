@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 240" role="img" aria-labelledby="title desc">
+  <title id="title">Calvin Rentals</title>
+  <desc id="desc">Calvin Rentals logo with a performance-car-inspired emblem and wordmark.</desc>
+  <defs>
+    <linearGradient id="gold" x1="22" y1="28" x2="248" y2="175" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE28A"/><stop offset=".48" stop-color="#F4BD3F"/><stop offset="1" stop-color="#C98716"/>
+    </linearGradient>
+    <linearGradient id="white" x1="26" y1="58" x2="248" y2="148" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#AEB9C1"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(14 42) scale(1.05)">
+    <path d="M18 73 42 42c6-8 16-13 27-13h102c11 0 21 5 27 13l24 31-29-14-18-18H65L47 59 18 73Z" fill="url(#gold)"/>
+    <path d="m24 72 37-14 24 4-11 14-32 5-18-9Zm192 0-37-14-24 4 11 14 32 5 18-9Z" fill="url(#white)"/>
+    <path d="M78 84h84l-12 17H90L78 84Z" fill="#F4BD3F"/>
+    <path d="M101 50h25c15 0 27 10 29 24h-13c-2-7-8-11-16-11h-18c-8 0-14 5-14 13s6 13 14 13h10V75h14v27h-24c-17 0-29-11-29-26 0-11 6-20 15-24l7-2Z" fill="#070A0C"/>
+    <path d="M24 91h52m88 0h52" stroke="url(#gold)" stroke-width="6" stroke-linecap="round"/>
+    <path d="M110 107h20" stroke="#F4F0E8" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <text x="300" y="124" fill="#F4F0E8" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800" letter-spacing="-4">CALVIN</text>
+  <text x="581" y="124" fill="#F4BD3F" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800" letter-spacing="-4">RENTALS</text>
+  <path d="M304 153h708" stroke="#FFFFFF" stroke-opacity=".18" stroke-width="2"/>
+  <text x="304" y="190" fill="#9AA3A8" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="8">PREMIUM CAR HIRE · KAMPALA</text>
+</svg>
